@@ -51,18 +51,22 @@ IV. Suba su trabajo a su cuenta de github, en la carpeta `/Precourse/Leccion02-G
 ```
 
 Crédito adicional:
->   Para hacer los extra credits, generalmente será necesario que investige algunas cosas por su cuenta en internet.
+>   Para hacer los extra credits, generalmente será necesario 
+que investige algunas cosas por su cuenta en internet.
   
   * Establecer el fondo de toda la página en una imagen
   * Centra los div en la página
   * Centra todos los elementos en la página
-  * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
+  * [Lea sobre el posicionamiento y use la regla de posición en sus estilos]
+(https://es.learnlayout.com/index.html)
   * Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
 
 ## Ejercicio II
 
 ```
-Usando lo que aprendiste de HTML vas a crear un documento nuevo llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
+Usando lo que aprendiste de HTML vas a crear un documento 
+nuevo llamado 'cv.html'. En el mismo vas crear tu propio Curriculum,
+ deberá tener las siguientes secciones:
 * Titulo
 * Descripcion Personal
 * Educación
@@ -71,10 +75,16 @@ Usando lo que aprendiste de HTML vas a crear un documento nuevo llamado 'cv.html
 * Tu foto
 * Hobbies
 
-Además agregá una sección más donde expliques porque estás estudiando esta carrera y cuales son tus expectativas al finalizar la carrera.
+Además agregá una sección más donde expliques porque estás
+ estudiando esta carrera y cuales son tus expectativas al finalizar la carrera.
 
 Suba tambien este archivo a su cuenta de github en`/Precourse/Leccion02-Git/`
 
 ```
 
->> Para este ejercicio vos vas a tener que elegir que **tags** html usar para darle la mejor estructuración al html. Acordate que en el futuro vamos a usar este ejercicio para agregarle CSS, por ahora no te preocupes del layout, solamente de reglas básicas.
+>> Para este ejercicio vos vas a tener que elegir que 
+**tags** html usar para darle la mejor estructuración al html.
+ Acordate que en el futuro vamos a usar este ejercicio para 
+agregarle CSS, por ahora no te preocupes del layout, solamente de reglas básicas.
+
+
