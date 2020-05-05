@@ -27,6 +27,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Acá va tu código */
 img {
     position: relative;
+    left: 200px;
+    top: 100px;
 }
 
 /* Ejercicio 4: */
@@ -36,7 +38,6 @@ img {
 #ejercicioCuatro {
     position: fixed;
     top: 0;
-    left: 0;
 
 }
 
@@ -44,11 +45,7 @@ img {
 
 /* Acá va tu código */
 #ejercicioCinco {
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row-reverse;
-    align-items: center;
-
+    position: top;
 
 }
 
@@ -62,14 +59,5 @@ img {
 
 /* Acá va tu código */
 #ejercicioSiete {
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: flex-start;
 
-}
-#elementoUno{
-    align-self: center;
-}
-#elementoUno:hover, #elementoDos:hover, #elementoTres:hover, #elementoCuatro:hover{
-    border: 2px solid black;
 }
