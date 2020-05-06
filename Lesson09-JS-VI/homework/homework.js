@@ -2,17 +2,24 @@
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
+  return cb ();
 }
 
 function sumarArray(numeros, cb) {
   // Suma todos los números enteros (int/integers) de un array ("numeros")
   // Pasa el resultado a `cb`
   // No es necesario devolver nada
+va suma = numeros.reduce(function(acc,elemento) {
+  return acc + elemento;
+}, 0);
+cb(suma);
 }
 
 function forEach(array, cb) {
   // Itera sobre la matriz "array" y pasa los valores al callback uno por uno
   // Pista: Estarás invocando a `cb` varias veces (una por cada valor en la matriz)
+
+
 }
 
 function map(array, cb) {
